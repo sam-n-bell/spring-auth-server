@@ -8,7 +8,7 @@ data.sql file provided to generate tables and insert test data. The queries diff
 
 To generate a token:
 1. open POSTMAN
-2. http://localhost:9001/oauth/token for url
+2. http://localhost:9001/oauth/token for url, POST HTTP Method
 3. Under Authorization tab, select Basic Auth
 4. For Username enter USER_CLIENT_APP
 5. For Password enter password
